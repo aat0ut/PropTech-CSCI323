@@ -7,3 +7,6 @@ joblib
 jupyter
 shap
 matplotlib
+streamlit
+plotly
+requests
